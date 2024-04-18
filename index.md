@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I am a PhD candidate at the Chair of Environmental Economics and Natural Resources of Wageningen University, The Netherlands. I study how people cope with climate risk. For example, in my dissertation I combine geospatial data with a web-based experiment to study how people react to information on flood risk at their address. My CV is [here](/cv.pdf){:target="_blank"}.
+Hi! I am a PhD candidate at the Chair of Environmental Economics and Natural Resources of Wageningen University, The Netherlands. I study how people cope with climate risk. For example, in my dissertation I combine geospatial data with a web-based experiment to study how people react to information on flood risk at their address. My CV is [here](/CV.pdf){:target="_blank"}.
 
 ### Working Papers
 
