@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I am a PhD candidate at the [Environmental and Natural Resources Economics Group](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Environmental-Economics-and-Natural-Resources-Group.htm) of Wageningen University, The Netherlands. I am interested in studying how society adapts to climate change, and how policies to manage the physical and transition risks of climate change should be designed.
+Hi! I am a PhD candidate at the [Environmental and Natural Resources Economics Group](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Environmental-Economics-and-Natural-Resources-Group.htm){:target="_blank"} of Wageningen University, The Netherlands. I am interested in studying how society adapts to climate change, and how policies to manage the physical and transition risks of climate change should be designed to be effective and equitable.
 
 My dissertation focuses on strategies for adaptation to flood risk in The Netherlands. For example, I combine geospatial data with a web-based experiment to study how people react to information on flood risk at their address. My CV is [here](/CV.pdf){:target="_blank"}.
 
