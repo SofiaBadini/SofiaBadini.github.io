@@ -28,6 +28,8 @@ favicon: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SofiaBadini
+google_verify: 5NQ3Jkl90xR2l-Wq0kX6sDaSkW7ZvkUCOcrLxA0a9l0
+google_site_verification: 5NQ3Jkl90xR2l-Wq0kX6sDaSkW7ZvkUCOcrLxA0a9l0
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
