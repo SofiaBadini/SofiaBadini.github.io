@@ -24,7 +24,7 @@ with [Anna Abatayo](https://annabatayo.com/){:target="_blank"} and [Andries Rich
 
 ### Selected work in Progress
 
-<b>Droughts, irrigation and land use in Brazil, 1990-2020</b> \
+<b>Droughts, irrigation and land use in Brazil, 1990-2020</b>
 
 <b>Can you engineer a Silicon Valley? Long-run effects of the BioRegio-contest on innovation</b> \
 with [Lorenzo Romero-Fernández](https://sites.google.com/view/lorenzo-romero-fernandez){:target="_blank"}
