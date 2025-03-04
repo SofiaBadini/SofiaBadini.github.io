@@ -6,7 +6,7 @@ Hi! I am a PhD candidate at the [Environmental and Natural Resources Economics G
 
 My dissertation focuses on climate risk, climate adaptation, and water extremes. For example, I combine geospatial data with a web-based experiment to study how homeowners in The Netherlands react to information on flood risk at their address. My CV is [here](/CV.pdf){:target="_blank"}.
 
-### Working Papers
+### Working papers
 
 <b>Information frictions, overconfidence, and learning: Experimental evidence from a floodplain</b> \
 [PDF](https://drive.google.com/file/d/12N7N-KCTPBidlzxtHDkb5e8cirPAoJeh/view?usp=sharing){:target="_blank"} | [PAP](https://osf.io/yxc3m){:target="_blank"} | [Replication package](https://github.com/SofiaBadini/experiment_floodplain){:target="_blank"} and [documentation](https://experiment-floodplain.readthedocs.io/en/latest/){:target="_blank"} (also in [PDF](https://experiment-floodplain.readthedocs.io/\_/downloads/en/latest/pdf/){:target="_blank"})
@@ -22,7 +22,7 @@ with [Esther Gehrke](https://www.esthergehrke.com/){:target="_blank"}, [Friederi
 with [Anna Abatayo](https://annabatayo.com/){:target="_blank"} and [Andries Richter](https://andriesrichter.com/){:target="_blank"}
 <details><summary><abstract>Abstract</abstract></summary> Flooding is one of the most damaging natural disasters worldwide, disproportionately affecting vulnerable communi- ties. Climate change is expected to increase the frequency and intensity of flooding, necessitating effective adaptation across all levels of society. While higher expected flood damages call for stronger household adaptation, limited access to information and lacking resources may prevent optimal decisions. Despite advances in flood mapping and research on household adapta- tion, the link between expected damages and adaptation decisions remains unknown. Here, we study the relationship between household adaptation measures and flood exposure in the Netherlands – a “best case scenario” due to its accurate flood risk information and recent flood experiences. Using publicly available flood maps, a national hydraulic model, and a large-scale survey, we reveal a significant mismatch between private adaptation measures and objective flood risks. Expected damages could be reduced substantially if high-risk households invested more in adaptation relative to low-risk households. We also uncover high spatial heterogeneity in both flood risk and adaptation, posing challenges to identify vulnerable areas and sup- port adaptation efforts. These findings provide critical insights into the effectiveness of household adaptation, which holds important implications for public adaptation and policy design. </details>
 
-### Selected work in Progress
+### Selected work in progress
 
 <b>Droughts, irrigation and land use in Brazil, 1990-2020</b>
 
